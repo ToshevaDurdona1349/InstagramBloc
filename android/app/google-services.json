@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431284050685",
+    "project_id": "instagram-febf3",
+    "storage_bucket": "instagram-febf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431284050685:android:40841271e30a303ccbfc94",
+        "android_client_info": {
+          "package_name": "com.nextgen.ngdemo17"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwg6G_AIfu5BsiyPBNdExCOKGVtXG9a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
